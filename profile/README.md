@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-🙋‍♀️ Tech Connect Meetups is an organization hosting meetups for tech enthusiasts in Europe and CIS. We unite people looking to connect with like-minded professionals.
+🙋‍♀️ In Tech Connect Meetups, we host meetups for tech enthusiasts in Europe and CIS. 
 We unite people looking to connect with like-minded professionals, share their expertise, and make friends.
 
 Join us for lively discussions, insightful presentations, and hands-on workshops covering a wide range of topics in the tech industry. Whether you're a seasoned developer, a curious newcomer, or somewhere in between, there's something for everyone.
