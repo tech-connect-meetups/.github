@@ -1,4 +1,4 @@
-[Rus]/[Eng]
+[Rus](#привет-)/[Eng](#hi-there-)
 
 ## Hi there 👋
 
