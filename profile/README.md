@@ -10,6 +10,7 @@ Join us for lively discussions, insightful presentations, and hands-on workshops
 At our meetups, we foster an inclusive and supportive environment where you can not only learn from industry experts but also forge meaningful connections. It's not just about networking; it's about making friends!
 
 Cities:
+
 [🇪🇸​​ Valencia](https://github.com/tech-connect-meetups/tech_vlc)
 
 Welcome!
@@ -23,6 +24,7 @@ Welcome!
 На наших митапах, мы создаем поддерживающую и нетоксичную атмосферу, потому что нам важно не только учиться друг у друга, но и выстраивать настоящие живые связи.
 
 Города:
-[🇪🇸​​ Валенсия](https://github.com/tech-connect-meetups/tech_vlc)https://github.com/tech-connect-meetups/tech_vlc
+
+[🇪🇸​​ Валенсия](https://github.com/tech-connect-meetups/tech_vlc)
 
 Велком!
